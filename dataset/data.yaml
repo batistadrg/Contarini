@@ -8,6 +8,6 @@ names: ['anexar-button', 'chat', 'emoji-button', 'input-mensagem', 'mensagem-env
 roboflow:
   workspace: batista
   project: whats-app-web-ui-3luph
-  version: 1
+  version: 2
   license: CC BY 4.0
-  url: https://universe.roboflow.com/batista/whats-app-web-ui-3luph/dataset/1
+  url: https://universe.roboflow.com/batista/whats-app-web-ui-3luph/dataset/2

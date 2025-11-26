@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 
 # 1. Carrega o modelo base (pré-treinado)
-model = YOLO("yolov8n.pt")  # versão pequena e rápida
+model = YOLO("runs/detect/train4/weights/best.pt")  # versão pequena e rápida
 
 # 2. Treina o modelo usando seu dataset
 model.train(

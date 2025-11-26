@@ -1,8 +1,8 @@
 
-Whats App Web UI - v1 2025-11-25 10:50am
+Whats App Web UI - v2 v2
 ==============================
 
-This dataset was exported via roboflow.com on November 25, 2025 at 1:51 PM GMT
+This dataset was exported via roboflow.com on November 26, 2025 at 3:42 PM GMT
 
 Roboflow is an end-to-end computer vision platform that helps you
 * collaborate with your team on computer vision projects
@@ -17,7 +17,7 @@ visit https://github.com/roboflow/notebooks
 
 To find over 100k other datasets and pre-trained models, visit https://universe.roboflow.com
 
-The dataset includes 17 images.
+The dataset includes 30 images.
 Whatsapp are annotated in YOLOv8 format.
 
 The following pre-processing was applied to each image:
