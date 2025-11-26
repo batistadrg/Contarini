@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../train/images
+test: ../test/images
+
+nc: 7
+names: ['anexar-button', 'chat', 'emoji-button', 'input-mensagem', 'mensagem-enviada', 'mensagem-recebida', 'whatsapp']
+
+roboflow:
+  workspace: batista
+  project: whats-app-web-ui-3luph
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/batista/whats-app-web-ui-3luph/dataset/1
