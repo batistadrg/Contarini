@@ -9,5 +9,5 @@ model.train(
     epochs=50,                  # pode alterar depois
     imgsz=640,                  # tamanho das imagens
     batch=8,                    # ajuste se der erro de RAM
-    device="0"                    # 0 = GPU, "cpu" se não tiver GPU
+    device="cpu"                    # 0 = GPU, "cpu" se não tiver GPU
 )
